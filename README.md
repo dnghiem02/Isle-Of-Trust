@@ -21,7 +21,7 @@ At the moment, you can go to https://isleoftrust.org/ for the old group's code a
 The code that my development team is currently working on is what you can find inside this
 repository.
 
-### Getting started
+## Getting started
 
 Clone the repository to your local machine:
 
