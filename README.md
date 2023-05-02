@@ -1,8 +1,5 @@
-# Welcome to the Isle of Trust!
-
-The Isle of Trust is a react based web game designed to invoke deep thoughts on topics such as morality, influence and the greater good.
-
-## What is the "Isle Of Trust"?
+# Welcome to the Isle Of Trust repository!
+## What is the "Isle Of Trust" all about?
 
 The "Isle Of Trust" game is a website game application developed initially by the students of
 Portland State University in 2022, and is a react-based website game designed to portray the
